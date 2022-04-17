@@ -41,5 +41,6 @@ if (Console.ReadLine() == "no")
 ```
 
 With the output of the code being
+
 ![Code output image](./assets/output.png)
 
