@@ -55,5 +55,5 @@ Before this course I had hardly ever touched any web development but it's been g
 
 Our first assignment was extremely easy to do as we only had to create a simple webpage with some minimal styling
 
-![Webpage](./assets/WebProg_Challenge1.png)
+<img src="./assets/WebProg_Challenge1.png" alt="drawing" width="200"/>
 
