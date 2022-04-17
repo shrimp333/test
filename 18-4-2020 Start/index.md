@@ -35,3 +35,6 @@ We've had a single assignment so far for this class which has been to create a c
                     break;
                 }
                 //if the user does not want to roll again breaks the loop ending the program, if not loops back to the start.```
+!("/assets/code output.png")
+
+The teacher then asked me to change the program so that 
