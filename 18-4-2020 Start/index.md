@@ -51,4 +51,9 @@ With the output of the code being
 
 ### HTML, CSS
 
-Before this course I had hardly ever touched any web development but it's been going well. So far all we've been given is images of web pages that we must recreate using HTML and CSS, we can use javascript and frameworks however.
+Before this course I had hardly ever touched any web development but it's been going well. So far all we've been given is images of web pages that we must recreate using HTML and CSS, we can use javascript and frameworks however. He suggested that we look into bootstrap as it would help but I haven't touched it yet. I've also been reading online and watching some videos that have been saying that learning css fundamentals before using a framework is a good idea as if you have learnt a framework without fundamentals and choose to switch to another framework it will take twice the time to learn the new framework. I have also read that you should just immediatly go into using a framework but I am unsure so I'm just sticking to vanilla css for now.
+
+Our first assignment was extremely easy to do as we only had to create a simple webpage with some minimal styling
+
+![Webpage](./WebProg_Challenge1.png)
+
