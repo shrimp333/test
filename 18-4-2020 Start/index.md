@@ -3,9 +3,9 @@
 I watched a video on youtube and it suggested starting a blog could be helpful towards learning. So I've decided that i will be documenting things that I learn for myself (Tips, Tricks, etc.) while not quite going into an actual blog.
 
 # Contents
-[How I got here](#how-i-got-here))
-[C#](#c)
-[HTML CSS](#html-css)
+- [How I got here](#how-i-got-here)
+- [C#](#c)
+- [HTML CSS](#html-css)
 
 ## How I got here
 
