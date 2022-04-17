@@ -1,8 +1,8 @@
 # Starting whatever this is
 
-I watched a video on youtube and it suggested starting a blog could be helpful towards learning. So I've decided that i will be documenting things that I learn for myself (Tips, Tricks, etc.) while not quite going into an actual blog.
+I watched a video on youtube and it suggested starting a blog could be helpful towards learning. So I've decided that i will be documenting things that I learn for myself (Tips, Tricks, etc.) while not quite going into an actual blog; or this might be exactly what a blog is, I'm not too sure tbh.
 
-# Contents
+## Contents
 - [How I got here](#how-i-got-here)
 - [C#](#c)
 - [HTML CSS](#html-css)
@@ -51,4 +51,4 @@ With the output of the code being
 
 ### HTML, CSS
 
-Before this course I had hardly ever 
+Before this course I had hardly ever touched any web development but it's been going well. So far all we've been given is images of web pages that we must recreate using HTML and CSS, we can use javascript and frameworks however.
