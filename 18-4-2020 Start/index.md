@@ -2,6 +2,11 @@
 
 I watched a video on youtube and it suggested starting a blog could be helpful towards learning. So I've decided that i will be documenting things that I learn for myself (Tips, Tricks, etc.) while not quite going into an actual blog.
 
+# Contents
+[How I got here](#how-i-got-here))
+[C#](#c)
+[HTML CSS](#html-css)
+
 ## How I got here
 
 During VCE I studied IT and Software Development, did okay score wise due to unwillingness towards learning when I was that age but I really enjoyed the programming aspect of the units. After high school I went and did a Diploma in Business with the initial intention to continue on the next year into the degree course. However, after failing and repeating one of the subjects in that course I came to the realisation that I hated business and started wondering why on earth I had chosen to go and study it. After getting my diploma I immediatly, just as I turned 20, joined a cert 4 TAFE course in IT - Programming. So far, 6 weeks in, I have been really enjoying it. We are currently learning C#, HTML, CSS, SQL and how to analyise and design systems and other important software development skills.
@@ -44,4 +49,6 @@ With the output of the code being
 
 ![Code output image](./assets/output.png)
 
-### Front end Web Dev
+### HTML, CSS
+
+Before this course I had hardly ever 
