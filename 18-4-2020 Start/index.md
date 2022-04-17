@@ -4,8 +4,9 @@ I watched a video on youtube and it suggested starting a blog could be helpful t
 
 ## Contents
 - [How I got here](#how-i-got-here)
-- [C#](#c)
-- [HTML CSS](#html-css)
+- [What we've done](#what-weve-done-so-far)
+    - [C#](#c)
+    - [HTML CSS](#html-css)
     - [SQL Databases](#sql-databases)
 
 ## How I got here
