@@ -1,6 +1,6 @@
-# Starting a blog
+# Starting whatever this is
 
-I watched a video on youtube and it suggested starting a blog could be helpful towards learning. So I've decided that i will be documenting things that I learn for myself (Tips, Tricks, etc.).
+I watched a video on youtube and it suggested starting a blog could be helpful towards learning. So I've decided that i will be documenting things that I learn for myself (Tips, Tricks, etc.) while not quite going into an actual blog.
 
 ## How I got here
 
@@ -12,11 +12,11 @@ During VCE I studied IT and Software Development, did okay score wise due to unw
 When it comes to C# we have essentially gone over almost everything I learnt during VCE. Although this time in C# this time instead of Visual Basic, which has been quite easy as VB and C# are extremely similar languages.
 
 We have gone over:
--Basic Variables, declarations, assigning, datatypes
--Selection, if statements
--Repetition, While loops, For loops
--Arrays and Lists
--Functions
+- Basic Variables, declarations, assigning, datatypes
+- Selection, if statements
+- Repetition, While loops, For loops
+- Arrays and Lists
+- Functions
 
 We've had a single assignment so far for this class which has been to create a console app that asks a user to input a number and it will generate a number between 1-6 that many times, essentially creating a program that rolls dice.
 ```c#
@@ -44,3 +44,4 @@ With the output of the code being
 
 ![Code output image](./assets/output.png)
 
+### Front end Web Dev
