@@ -1,12 +1,12 @@
 # Starting whatever this is
 
-I watched a video on youtube and it suggested starting a blog could be helpful towards learning. So I've decided that i will be documenting things that I learn for myself (Tips, Tricks, etc.) while not quite going into an actual blog; or this might be exactly what a blog is, I'm not too sure tbh.
+I watched a video on youtube and it suggested starting a blog could be helpful towards learning. So I've decided that i will be documenting things that I learn for myself (Tips, Tricks, Assignments, etc.) while not quite going into an actual blog; or this might be exactly what a blog is, I'm not too sure tbh.
 
 ## Contents
 - [How I got here](#how-i-got-here)
 - [C#](#c)
 - [HTML CSS](#html-css)
-- [SQL Databases](#sql-databases)
+    - [SQL Databases](#sql-databases)
 
 ## How I got here
 
