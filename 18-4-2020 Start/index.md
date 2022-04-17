@@ -18,23 +18,25 @@ We have gone over:
 -Functions
 
 We've had a single assignment so far for this class which has been to create a console app that asks a user to input a number and it will generate a number between 1-6 that many times, essentially creating a program that rolls dice.
-
-                Console.WriteLine("How many Dice would you like to roll?");
-                numOf = int.Parse(Console.ReadLine());
-                //inputs how many dice user wants to role and parses it to an integer
-                Console.WriteLine("Dice Rolled were:");
-                for (int i = 0; i < numOf; i++)
-                {
-                    result = dice.Next(1,6);
-                    Console.WriteLine(result);
-                }
-                //for each of the dice wanted to roll generates a random number between 1 and 6 and prints it
-                Console.WriteLine("Would you like to roll again? (yes/no)");
-                if (Console.ReadLine() == "no")
-                {
-                    break;
-                }
-                //if the user does not want to roll again breaks the loop ending the program, if not loops back to the start.
+```c#
+{
+Console.WriteLine("How many Dice would you like to roll?");
+numOf = int.Parse(Console.ReadLine());
+//inputs how many dice user wants to role and parses it to an integer
+Console.WriteLine("Dice Rolled were:");
+for (int i = 0; i < numOf; i++)
+{
+    result = dice.Next(1,6);
+    Console.WriteLine(result);
+}
+//for each of the dice wanted to roll generates a random number between 1 and 6 and prints it
+Console.WriteLine("Would you like to roll again? (yes/no)");
+if (Console.ReadLine() == "no")
+{
+    break;
+}
+//if the user does not want to roll again breaks the loop ending the program, if not loops back to the start.
+}
+```
 ![Code output image](./assets/output.png)
 
-The teacher then asked me to change the program so that 
