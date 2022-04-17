@@ -8,6 +8,7 @@ During VCE I studied IT and Software Development, did okay score wise due to unw
 
 ## What we've done so far
 
+### C#
 When it comes to C# we have essentially gone over almost everything I learnt during VCE. Although this time in C# this time instead of Visual Basic, which has been quite easy as VB and C# are extremely similar languages.
 
 We have gone over:
@@ -19,7 +20,7 @@ We have gone over:
 
 We've had a single assignment so far for this class which has been to create a console app that asks a user to input a number and it will generate a number between 1-6 that many times, essentially creating a program that rolls dice.
 ```c#
-{
+
 Console.WriteLine("How many Dice would you like to roll?");
 numOf = int.Parse(Console.ReadLine());
 //inputs how many dice user wants to role and parses it to an integer
@@ -36,7 +37,9 @@ if (Console.ReadLine() == "no")
     break;
 }
 //if the user does not want to roll again breaks the loop ending the program, if not loops back to the start.
-}
+
 ```
+
+With the output of the code being
 ![Code output image](./assets/output.png)
 
