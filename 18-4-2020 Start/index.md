@@ -19,7 +19,7 @@ We have gone over:
 
 We've had a single assignment so far for this class which has been to create a console app that asks a user to input a number and it will generate a number between 1-6 that many times, essentially creating a program that rolls dice.
 
-``Console.WriteLine("How many Dice would you like to roll?");
+                Console.WriteLine("How many Dice would you like to roll?");
                 numOf = int.Parse(Console.ReadLine());
                 //inputs how many dice user wants to role and parses it to an integer
                 Console.WriteLine("Dice Rolled were:");
@@ -34,7 +34,7 @@ We've had a single assignment so far for this class which has been to create a c
                 {
                     break;
                 }
-                //if the user does not want to roll again breaks the loop ending the program, if not loops back to the start.``
-![Code output image]("/assets/code output.png")
+                //if the user does not want to roll again breaks the loop ending the program, if not loops back to the start.
+![Code output image](/assets/output.png)
 
 The teacher then asked me to change the program so that 
